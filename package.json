@@ -1,0 +1,27 @@
+{
+  "name": "moduletwo",
+  "version": "1.0.0",
+  "description": "Animating the site with js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kakbutos/site-food-learnJS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kakbutos/site-food-learnJS/issues"
+  },
+  "homepage": "https://github.com/kakbutos/site-food-learnJS#readme",
+  "devDependencies": {
+    "json-server": "^0.17.0",
+    "webpack": "^5.60.0",
+    "webpack-cli": "^4.9.1"
+  },
+  "dependencies": {
+    "-": "0.0.1"
+  }
+}
